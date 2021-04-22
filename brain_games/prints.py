@@ -1,5 +1,4 @@
-"""Cli functions."""
-
+"""All prints."""
 import prompt
 
 
