@@ -4,4 +4,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/RamiGaggi/python-project-lvl1)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/RamiGaggi/python-project-lvl1/test_coverage)
 
-[![asciicast](https://asciinema.org/a/PR3dU28MNZfRK4kTcudY0xyzr.svg)](https://asciinema.org/a/PR3dU28MNZfRK4kTcudY0xyzr)
+<script id="asciicast-PR3dU28MNZfRK4kTcudY0xyzr" src="https://asciinema.org/a/PR3dU28MNZfRK4kTcudY0xyzr.js" async></script>
