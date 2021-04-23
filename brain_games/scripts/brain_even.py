@@ -2,14 +2,12 @@
 
 """Brain games main script."""
 
-from brain_games.games.even import even_game
-from brain_games.prints import welcome_user
+from brain_games.games.even import build_and_play
 
 
 def main():
     """Start main."""
-    name = welcome_user()
-    even_game(name)
+    build_and_play()
 
 
 if __name__ == '__main__':

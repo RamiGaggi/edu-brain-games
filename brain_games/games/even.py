@@ -2,25 +2,33 @@
 
 from random import randint as rand
 
+from brain_games.games_engine import engine
 
-def even_game(name):
-    """Start the game, guess even number with win condition.
+
+def question():
+    """[summary].
+
+    Returns:
+        [type]: [description]
+    """
+    return rand(1, 1000)
+
+
+def question_check(que):
+    """[summary].
 
     Args:
-        name (str): The name of the player.
+        que ([type]): [description]
+
+    Returns:
+        [type]: [description]
     """
-    print('Answer "yes" if the number is even, otherwise answer "no".')
-    count = 0
-    win_condition = 3
-    while count != win_condition:
-        question = rand(1, 1000)
-        even_check = 'yes' if question % 2 == 0 else 'no'
-        print('Question: ', question)
-        answer = input('Your answer: ').lower().strip()
-        if even_check == answer:
-            print('Correct!')
-            count += 1
-            continue
-        print('"yes" is wrong answer ;(. Correct answer was "no".')
-        return
-    print('Congratulations, {name}!'.format(name=name))
+    return 'yes' if que % 2 == 0 else 'no'
+
+
+def build_and_play():
+    """[summary]."""
+    engine(description, question, question_check)
+
+
+description = 'Answer "yes" if the number is even, otherwise answer "no".'
