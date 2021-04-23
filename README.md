@@ -5,7 +5,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/RamiGaggi/python-project-lvl1/test_coverage)
 
 ## Even-odd game.
-[![asciicast](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl.svg)](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl)
+[![asciicast](https://asciinema.org/a/9XxItuNcEjMQkhfaZQ5FNpeg8.svg)](https://asciinema.org/a/9XxItuNcEjMQkhfaZQ5FNpeg8)
 
 ## Calculator game.
 [![asciicast](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl.svg)](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl)
