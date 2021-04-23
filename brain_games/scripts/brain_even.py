@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Brain games main script."""
+"""Brain-even script to start the game."""
 
 from brain_games.games.even import build_and_play
 
