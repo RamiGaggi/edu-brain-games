@@ -6,28 +6,28 @@ from brain_games.games_engine import engine
 
 
 def question():
-    """[summary].
+    """Make Question number.
 
     Returns:
-        [type]: [description]
+        int: Random number.
     """
     return rand(1, 1000)
 
 
 def question_check(que):
-    """[summary].
+    """Check if number even.
 
     Args:
-        que ([type]): [description]
+        que (int): Number
 
     Returns:
-        [type]: [description]
+        str: 'yes' if number even 'no' if else.
     """
     return 'yes' if que % 2 == 0 else 'no'
 
 
 def build_and_play():
-    """[summary]."""
+    """Build and play the game."""
     engine(description, question, question_check)
 
 

@@ -3,12 +3,12 @@ import prompt
 
 
 def engine(desc, que, check):
-    """[summary].
+    """Build the question-answer game with win condition eq 3.
 
     Args:
-        desc (str): [description]
-        que (str): [description]
-        check (func): [description]
+        desc (str): Description of the game.
+        que (str/int): Question for the round of the game.
+        check (func): Checkout answer for question.
     """
     name = prompt.string('May I have your name? ')
     print('Welcome to the Brain Games!')
