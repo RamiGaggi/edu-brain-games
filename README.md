@@ -4,5 +4,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/RamiGaggi/python-project-lvl1)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/RamiGaggi/python-project-lvl1/test_coverage)
 
-## Even-odd
+## Even-odd game.
 [![asciicast](https://asciinema.org/a/PR3dU28MNZfRK4kTcudY0xyzr.svg)](https://asciinema.org/a/PR3dU28MNZfRK4kTcudY0xyzr)
+
+## Calculator game.
+[![asciicast](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl.svg)](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl)
