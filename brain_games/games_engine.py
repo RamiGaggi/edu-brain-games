@@ -18,7 +18,7 @@ def engine(desc, que, check):
     while win_condition < 3:
         question = que()
         question_check = check(question)  # var
-        print('Question: ', question)
+        print('Question:', question)
         answer = input('Your answer: ').lower().strip()
         if question_check == answer:
             print('Correct!')
