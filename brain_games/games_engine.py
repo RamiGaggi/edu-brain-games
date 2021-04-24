@@ -25,5 +25,6 @@ def engine(desc, que, check):
             win_condition += 1
             continue
         print('"{answer}" is wrong answer ;(. Correct answer was "{que_check}".'.format(answer=answer, que_check=question_check))  # noqa: E501
+        print("Let's try again, {name}!".format(name=name))
         return
     print('Congratulations, {name}!'.format(name=name))
