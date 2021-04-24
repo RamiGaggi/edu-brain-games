@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-"""GDC script to start the game."""
+"""GCD script to start the game."""
 
-from brain_games.games.gdc import build_and_play
+from brain_games.games.gcd import build_and_play
 
 
 def main():
