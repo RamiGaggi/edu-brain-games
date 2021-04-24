@@ -1,6 +1,6 @@
 """Even-guess game."""
 
-from random import randint as rand
+from random import randint
 
 from brain_games.games_engine import engine
 
@@ -11,7 +11,7 @@ def question():
     Returns:
         int: Random number.
     """
-    return rand(1, 1000)
+    return randint(1, 1000)
 
 
 def question_check(que):
