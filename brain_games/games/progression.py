@@ -45,7 +45,7 @@ def question_check(que):  # noqa: WPS210 it's possible to have 6 local variables
 
 def build_and_play():
     """Build and play the game."""
-    engine(description, question, question_check)
+    engine(DESCRIPTION, question, question_check)
 
 
-description = 'What number is missing in the progression?'
+DESCRIPTION = 'What number is missing in the progression?'

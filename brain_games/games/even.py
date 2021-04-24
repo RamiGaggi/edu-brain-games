@@ -28,7 +28,7 @@ def question_check(que):
 
 def build_and_play():
     """Build and play the game."""
-    engine(description, question, question_check)
+    engine(DESCRIPTION, question, question_check)
 
 
-description = 'Answer "yes" if the number is even, otherwise answer "no".'
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'

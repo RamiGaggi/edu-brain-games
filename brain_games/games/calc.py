@@ -36,7 +36,7 @@ def question_check(que):
 
 def build_and_play():
     """Build and play the game."""
-    engine(description, question, question_check)
+    engine(DESCRIPTION, question, question_check)
 
 
-description = 'What is the result of the expression?'
+DESCRIPTION = 'What is the result of the expression?'
