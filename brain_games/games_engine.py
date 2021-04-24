@@ -24,6 +24,6 @@ def engine(desc, que, check):
             print('Correct!')
             win_condition += 1
             continue
-        print('"{answer}" is wrong answer ;(.Correct answer was "{que_check}".'.format(answer=answer, que_check=question_check))  # noqa: E501
+        print('"{answer}" is wrong answer ;(. Correct answer was "{que_check}".'.format(answer=answer, que_check=question_check))  # noqa: E501
         return
     print('Congratulations, {name}!'.format(name=name))
