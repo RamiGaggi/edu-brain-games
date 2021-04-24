@@ -1,4 +1,4 @@
-"""Even-guess game."""
+"""Even number guess game."""
 
 from random import randint
 
@@ -15,13 +15,13 @@ def question():
 
 
 def question_check(que):
-    """Check if number even.
+    """Check if number is even.
 
     Args:
         que (int): Number
 
     Returns:
-        str: 'yes' if number even 'no' if else.
+        str: 'yes' if number is even 'no' if else.
     """
     return 'yes' if que % 2 == 0 else 'no'
 
