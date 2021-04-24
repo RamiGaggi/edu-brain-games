@@ -9,3 +9,6 @@
 
 ## Calculator game.
 [![asciicast](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl.svg)](https://asciinema.org/a/bmCmFlHhVXz6k07Wy4lGrKXwl)
+
+## GDC game.
+[![asciicast](https://asciinema.org/a/gWG1R6K2SnGmrjcinLjifZRz3.svg)](https://asciinema.org/a/gWG1R6K2SnGmrjcinLjifZRz3)
