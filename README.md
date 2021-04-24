@@ -12,3 +12,5 @@
 
 ## GDC game.
 [![asciicast](https://asciinema.org/a/gWG1R6K2SnGmrjcinLjifZRz3.svg)](https://asciinema.org/a/gWG1R6K2SnGmrjcinLjifZRz3)
+## Arithmetic progression game.
+[![asciicast](https://asciinema.org/a/3nTWp3NJ2OwGcTqYA5qgbNMrv.svg)](https://asciinema.org/a/3nTWp3NJ2OwGcTqYA5qgbNMrv)
