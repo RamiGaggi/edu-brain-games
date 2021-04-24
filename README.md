@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/RamiGaggi/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/RamiGaggi/python-project-lvl1/actions)
 [![Python CI](https://github.com/RamiGaggi/python-project-lvl1/workflows/game-check/badge.svg)](https://github.com/RamiGaggi/python-project-lvl1/actions/workflows/game-check.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/RamiGaggi/python-project-lvl1)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/RamiGaggi/python-project-lvl1/test_coverage)
+
 
 ## Even-odd game.
 [![asciicast](https://asciinema.org/a/9XxItuNcEjMQkhfaZQ5FNpeg8.svg)](https://asciinema.org/a/9XxItuNcEjMQkhfaZQ5FNpeg8)
@@ -14,3 +14,6 @@
 [![asciicast](https://asciinema.org/a/gWG1R6K2SnGmrjcinLjifZRz3.svg)](https://asciinema.org/a/gWG1R6K2SnGmrjcinLjifZRz3)
 ## Arithmetic progression game.
 [![asciicast](https://asciinema.org/a/3nTWp3NJ2OwGcTqYA5qgbNMrv.svg)](https://asciinema.org/a/3nTWp3NJ2OwGcTqYA5qgbNMrv)
+
+## Guess prime number game.
+[![asciicast](https://asciinema.org/a/VN3Lg6jRcKz2G3mkeald03K65.svg)](https://asciinema.org/a/VN3Lg6jRcKz2G3mkeald03K65)
